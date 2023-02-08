@@ -1,4 +1,2 @@
-O string SCHOOL This is a school file
+O	string SCHOOL
 !:mime text/school
-#!/bin/bash
-file -C -m school
