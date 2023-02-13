@@ -1,4 +1,4 @@
-#Shell, I/O Redirection#
+#Shell, I/O Redirection
 
 What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 
@@ -10,13 +10,13 @@ How to send the output from one program to the input of another program
 
 How to combine commands and filters with redirections
 
-##Special Characters##
+##Special Characters
 
 What are special characters
 
 Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
 
-###Other Man Pages##
+###Other Man Pages
 
 How to display a line of text
 
