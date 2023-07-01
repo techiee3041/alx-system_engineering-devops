@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#!/usr/bin/env bash 
 # shell script that displays "Best School" using until loop
 
 i=0
