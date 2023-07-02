@@ -3,13 +3,17 @@
 # Displays "BEst School" 10 times, on the 9th dispays "Hi"
 
 i=0
+
 while [ $i -le 10 ]
 do
+
 if [ $i -eq 9 ]
 then
 echo "Hi"
+
 else
 echo "Best School"
+
 fi
 i=$((i+1))
 done
