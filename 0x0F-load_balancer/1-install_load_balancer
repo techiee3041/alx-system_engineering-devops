@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Configures a new Ubuntu server with a HAproxy load-balancer
 apt-get update
 apt-get install -y haproxy=2.5.\*
 
